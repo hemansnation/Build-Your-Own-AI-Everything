@@ -2,7 +2,7 @@
 
 > Master AI engineering by recreating fundamental AI systems from scratch
 
-Inspired by [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x), this repository is a curated collection of AI project ideas that help you understand how modern AI systems work by building them yourself.
+This repository is a curated collection of AI project ideas that help you understand how modern AI systems work by building them yourself.
 
 **"What I cannot create, I do not understand."** — Richard Feynman
 
